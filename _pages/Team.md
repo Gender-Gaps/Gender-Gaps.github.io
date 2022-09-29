@@ -6,12 +6,9 @@ author_profile: false
 ---
 ## Principal Investigators
 
-### Degye Goshu 
-<div style="float: right">
-    ![<img align="left" src="../images/Degye.png" width = "250" height="150">](http://placehold.it/85x85 "Title")
-</div> 
+### Degye Goshu
 
- Dr. Degye Goshu is currently a senior researcher at the Ethiopian Economics Association (EEA). He had pursued his studies in Agricultural Economics. He has 20 years of postgraduate teaching and research experience. He was an Associate Professor of Economics at Haramaya and Kotebe Metropolitan universities. His research experience includes welfare analysis, food and nutrition security, efficiency and productivity, market and price dynamics, impact evaluation, and livelihood analysis. He has published over 58 research works in reputed journals and books. He has coordinated various research and capacity building projects. 
+<img align="left" src="../images/Degye.png" width = "200" height="250"> Dr. Degye Goshu is currently a senior researcher at the Ethiopian Economics Association (EEA). He had pursued his studies in Agricultural Economics. He has 20 years of postgraduate teaching and research experience. He was an Associate Professor of Economics at Haramaya and Kotebe Metropolitan universities. His research experience includes welfare analysis, food and nutrition security, efficiency and productivity, market and price dynamics, impact evaluation, and livelihood analysis. He has published over 58 research works in reputed journals and books. He has coordinated various research and capacity building projects. 
 
 Dr. Degye Goshu, in partnership with Dr. Mengistu Ketema, will lead the gender profitability gap analysis for Ethiopia and the exploration of the relationship between gender and the economy in Ethiopia.
 
