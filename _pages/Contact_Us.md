@@ -15,17 +15,17 @@ Heading 2
 
 Dr. Degye Goshu
 
-Email: degye(dot)goshu(at)eea-et(dot)org
+**Email:** degye(dot)goshu(at)eea-et(dot)org
 
 Dr. Gisella Kagy
 
-Website: Dr. Gisella Kagy
+**Website:** Dr. Gisella Kagy
 
-Email: gikagy(at)vassar(dot)edu
+**Email:** gikagy(at)vassar(dot)edu
 
 Dr. Mengistu Katema
 
-Email: mengistu(dot)ketema(at)eea-et(dot)org
+**Email:** mengistu(dot)ketema(at)eea-et(dot)org
 
 Dr. Morgan Hardy
 
