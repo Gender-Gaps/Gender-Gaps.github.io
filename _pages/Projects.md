@@ -12,4 +12,3 @@ author_profile: false
   * Read full paper
   * <a download="Angola.zip" href="../_data/" title="Data replication files">
     </a>
-  * [Data replication files]()
