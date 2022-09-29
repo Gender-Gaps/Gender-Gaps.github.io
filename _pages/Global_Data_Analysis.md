@@ -19,3 +19,8 @@ Using the programming language Stata we were able to merge the WBL and UCLA data
 
 The maps for 1971 and 2020 are shown below:
 
+<img style="float: center;" src="../images/1971.png">
+
+<img style="float: center;" src="../images/2020.png">
+
+[Try out the slide map](https://gender-profit-gap.vassarspaces.net/wp-content/uploads/2021/07/Indices_SliderMap.html)
