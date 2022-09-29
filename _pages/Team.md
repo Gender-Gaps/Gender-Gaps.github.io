@@ -36,9 +36,9 @@ Dr. Morgan Hardy, in partnership with Dr. Gisella Kagy, will lead the research t
 
 ## Post-Docs
 
-### Nusrat Jimi
+### Abule Mehare 
 
-### Abule 
+### Nusrat Jimi
 
 ## Pre-Docs
 
