@@ -4,12 +4,12 @@ title: "Meet the Team"
 permalink: /Team/
 author_profile: false
 ---
-# Principal Investigators
+## Principal Investigators
 
 ### Degye Goshu 
-
+|                  |                                                                           |
 | --------         | ------------------------------------------------------------------------- |
-|![](Degye.png)    | Dr. Degye Goshu is currently a senior researcher at the Ethiopian 
+|![]("Degye.png")  | Dr. Degye Goshu is currently a senior researcher at the Ethiopian 
                      Economics Association (EEA). He had pursued his studies in 
                      Agricultural Economics. He has 20 years of postgraduate teaching and 
                      research experience. He was an Associate Professor of Economics at 
@@ -21,7 +21,7 @@ author_profile: false
                      building projects.                                                        |
 
 
-# Post-Docs
+## Post-Docs
 
 
-# Pre-Docs
+## Pre-Docs
