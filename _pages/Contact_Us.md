@@ -16,7 +16,7 @@ author_profile: false
 
 **PI:**  Dr. Mengistu Katema
 
-**Email:** <mengistu.ketema@eea-et.org
+**Email:** <mengistu.ketema@eea-et.org>
 
 **PI:**  Dr. Morgan Hardy
 
