@@ -5,8 +5,6 @@ excerpt: "This is a page is in the main menu"
 author_profile: false
 ---
 
-This is a page is in the menu. You can use markdown in this page.
-
 Principal Investigators
 ======
 
