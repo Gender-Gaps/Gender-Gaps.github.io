@@ -8,7 +8,7 @@ author_profile: false
 
 ### Degye Goshu 
 
-![Degye](images/Degye.png) 
+![Degye](../images/Degye.png) 
 
 Dr. Degye Goshu is currently a senior researcher at the Ethiopian Economics Association (EEA). He had pursued his studies in 
 Agricultural Economics. He has 20 years of postgraduate teaching and research experience. He was an Associate Professor of Economics at 
