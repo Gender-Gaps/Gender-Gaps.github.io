@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
+title: "Institutions"
+permalink: /Institutions/
+author_profile: false
 ---
 
 {% include base_path %}
