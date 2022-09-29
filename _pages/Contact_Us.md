@@ -5,29 +5,20 @@ excerpt: "This is a page is in the main menu"
 author_profile: false
 ---
 
-Principal Investigators
-======
 
-Heading 2
-======
-
-Dr. Degye Goshu
+**PI:** Dr. Degye Goshu
 
 **Email:** degye(dot)goshu(at)eea-et(dot)org
 
-Dr. Gisella Kagy
-
-**Website:** Dr. Gisella Kagy
+**PI:** Dr. Gisella Kagy
 
 **Email:** gikagy(at)vassar(dot)edu
 
-Dr. Mengistu Katema
+**PI:**  Dr. Mengistu Katema
 
 **Email:** mengistu(dot)ketema(at)eea-et(dot)org
 
-Dr. Morgan Hardy
-
-**Website:** Dr. Morgan Hardy
+**PI:**  Dr. Morgan Hardy
 
 **Email:** morgan.hardy(at)nyu(dot)edu
 
