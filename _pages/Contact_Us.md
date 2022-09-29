@@ -29,8 +29,8 @@ Dr. Mengistu Katema
 
 Dr. Morgan Hardy
 
-Website: Dr. Morgan Hardy
+**Website:** Dr. Morgan Hardy
 
-Email: morgan.hardy(at)nyu(dot)edu
+**Email:** morgan.hardy(at)nyu(dot)edu
 
 
