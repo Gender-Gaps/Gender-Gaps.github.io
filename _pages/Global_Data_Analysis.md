@@ -15,3 +15,7 @@ An essential part of the Gender Profit gaps project is understanding the global 
 | Entry Constraint         | Does the law prohibit discrimination in employment based on gender? | 
 
 
+Using the programming language Stata we were able to merge the WBL and UCLA datasets and create indices of the different constraints women face i.e. a number assigned to each country that reflects the barriers for women. The larger the number, the higher the barriers. We were then able to create a slider map using Python where sliding the marker down shows how barriers for women have changed over time globally. The map is color-coded where the darker colors indicate higher barriers. This allows us to represent our findings visually and check how trends have changed over time. We can then use this information to see whether the gender profit gap has changed accordingly or hone in on particular countries.
+
+The maps for 1971 and 2020 are shown below:
+
