@@ -8,7 +8,7 @@ author_profile: false
 
 ### Degye Goshu
 
-<img align="left" src="../images/Degye.png"  width = "250" height="250"> Dr. Degye Goshu is currently a senior researcher at the Ethiopian Economics Association (EEA). He had pursued his studies in Agricultural Economics. He has 20 years of postgraduate teaching and research experience. He was an Associate Professor of Economics at Haramaya and Kotebe Metropolitan universities. His research experience includes welfare analysis, food and nutrition security, efficiency and productivity, market and price dynamics, impact evaluation, and livelihood analysis. He has published over 58 research works in reputed journals and books. He has coordinated various research and capacity building projects. 
+<img align="left" src="../images/Degye.png"  width = "200" height="250"> Dr. Degye Goshu is currently a senior researcher at the Ethiopian Economics Association (EEA). He had pursued his studies in Agricultural Economics. He has 20 years of postgraduate teaching and research experience. He was an Associate Professor of Economics at Haramaya and Kotebe Metropolitan universities. His research experience includes welfare analysis, food and nutrition security, efficiency and productivity, market and price dynamics, impact evaluation, and livelihood analysis. He has published over 58 research works in reputed journals and books. He has coordinated various research and capacity building projects. 
 
 Dr. Degye Goshu, in partnership with Dr. Mengistu Ketema, will lead the gender profitability gap analysis for Ethiopia and the exploration of the relationship between gender and the economy in Ethiopia.
 
@@ -22,7 +22,7 @@ Dr. Gisella Kagy, in partnership with Dr. Morgan Hardy, will lead the research t
 
 ### Mengistu Ketema 
 
-<img style="float: left;" src="../images/Mengitsu.png"  width = "250" height="250"> Dr. Mengistu Ketema is currently a senior researcher at the Ethiopian Economics Association (EEA). He obtained his BSc and MSc degrees in Agricultural Economics from Haramaya University and his Ph.D. Degree from the Justus-Liebig University of Giessen, Germany. He has 21 years of experience in research and teaching. He has published more than 60 articles in reputable journals, 10 proceeding papers, and five book chapters. He has also successfully coordinated and completed six collaborative projects.
+<img style="left;" src="../images/Mengitsu.png"  width = "250" height="250"> Dr. Mengistu Ketema is currently a senior researcher at the Ethiopian Economics Association (EEA). He obtained his BSc and MSc degrees in Agricultural Economics from Haramaya University and his Ph.D. Degree from the Justus-Liebig University of Giessen, Germany. He has 21 years of experience in research and teaching. He has published more than 60 articles in reputable journals, 10 proceeding papers, and five book chapters. He has also successfully coordinated and completed six collaborative projects.
 
 Dr. Mengistu Ketema, in partnership with Dr. Degye Goshu, will lead the gender profitability gap analysis for Ethiopia and the exploration of the relationship between gender and the economy in Ethiopia.
 
