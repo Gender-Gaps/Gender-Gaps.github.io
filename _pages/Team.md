@@ -8,7 +8,7 @@ author_profile: false
 
 ### Degye Goshu 
 
-![]("images/Degye.png") 
+![](images/Degye.png) 
 
 Dr. Degye Goshu is currently a senior researcher at the Ethiopian Economics Association (EEA). He had pursued his studies in 
 Agricultural Economics. He has 20 years of postgraduate teaching and research experience. He was an Associate Professor of Economics at 
@@ -21,6 +21,9 @@ the relationship between gender and the economy in Ethiopia.
 
 ### Gisella Kagy
 
+Dr. Gisella Kagy is an Assistant Professor of Economics at Vassar College with a research focus on development economics. Her research interests broadly cover how gender, firms, and labor markets interact and women’s empowerment. She has conducted experiments and collected original data in Ethiopia, Ghana, and Bangladesh. She holds a B.A. in mathematics and Ph.D. and MA in Economics from the University of Colorado at Boulder. She received a Hewlett Foundation/IIE Dissertation Fellowship to study women’s labor market participation in Bangladesh. 
+
+Dr. Gisella Kagy, in partnership with Dr. Morgan Hardy, will lead the research team in analyzing the gender profit gap at the global level.
 
 ## Post-Docs
 
