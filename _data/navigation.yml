@@ -1,22 +1,19 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /Projects/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Team"
+    url: /Team/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Institutions"
+    url: /Institutions/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /Research/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Global Data Analysis"
+    url: /Global_Data_Analysis/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact Us"
+    url: /Contact_Us/
