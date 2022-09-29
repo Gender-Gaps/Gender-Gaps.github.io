@@ -8,18 +8,22 @@ author_profile: false
 
 **PI:** Dr. Degye Goshu
 
-**Email:** degye(dot)goshu(at)eea-et(dot)org
+**Email:** <degye.goshu@eea-et.org>
 
 **PI:** Dr. Gisella Kagy
 
-**Email:** gikagy(at)vassar(dot)edu
+**Email:** <gikagy@vassar.edu>
 
 **PI:**  Dr. Mengistu Katema
 
-**Email:** mengistu(dot)ketema(at)eea-et(dot)org
+**Email:** <mengistu.ketema@eea-et.org
 
 **PI:**  Dr. Morgan Hardy
 
-**Email:** morgan.hardy(at)nyu(dot)edu
+**Email:** <morgan.hardy@nyu.edu>
+
+**Post-Doc Researchers:**  Dr. Nusrat Jimi
+
+**Email:** <njimi@vassar.edu>
 
 
