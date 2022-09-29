@@ -5,12 +5,5 @@ permalink: /Projects/
 author_profile: false
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **Foundational Analysis on the gender profitability gap**
+In this project, the research team will pursue two related but distinct research efforts, one at the global level and one at the national level in Ethiopia.
