@@ -1,6 +1,6 @@
 ---
 permalink: /Contact_Us/
-title: "Page in menu"
+title: "Contact Us"
 excerpt: "This is a page is in the main menu"
 author_profile: false
 ---
