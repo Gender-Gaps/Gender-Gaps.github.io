@@ -72,6 +72,10 @@ analysis.
 
 ### Dr. Nusrat Jimi
 
+Dr. Nusrat Jimi Jimi is a Faculty Research Associate at the Department of Economics, Vassar College. She received her Ph.D. in Economics from Binghamton University - State University of New York in August 2021.
+
+She is a development economist concentrating on microeconomic development issues in human capital, entrepreneurship, and the labor market and health effects of climate change in the context of developing countries.
+
 ## Pre-Docs
 
 ### Denat Ephrem Negatu
